@@ -9,7 +9,8 @@ Hi, i'm Roberto Cordeiro, FullStack developer and Brazilian. For years i'm aroun
 <a href="https://www.linkedin.com/in/roberto-cordeiro-30998a195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>   
 
 #### Info:
-<div style="display=inline">
+<div style="display:inline-block">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-cordeiro&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto-cordeiro&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto-cordeiro&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-cordeiro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
